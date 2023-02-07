@@ -15,6 +15,10 @@
 
 <br/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DyeonPark&show_icons=true&theme=merko)
+
+<br/>
+
 ### 🎓 Educations & Experiences
 > * **Bachelor's of IT Engineering**, Sookmyung.W.Univ / 2017.03 - 2021.08
 > * **ETRI (한국전자통신연구원)** / 동계 연구연수생 / 2020.01~2020.02
