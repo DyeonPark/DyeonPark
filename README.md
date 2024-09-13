@@ -21,8 +21,8 @@
 <br/>
 
 ### 🎓 Educations & Experiences
-> * **MLOps Engineer**, CJ OliveNetworks / 2024.01 ~
-> * **Recommendation Systemr**, Naver Boostcamp AI Tech / 2023.03 ~ 2023.08
+> * **✨ MLOps Engineer ✨**, CJ OliveNetworks / 2024.01 ~
+> * **Recommendation System**, Naver Boostcamp AI Tech / 2023.03 ~ 2023.08
 > * **Master's of IT Engineering**, Sookmyung.W.Univ / 2021.09 - 2023.02
 > * **ETRI (한국전자통신연구원)** / 동계 연구연수생 / 2020.01~2020.02
 > * **Bachelor's of IT Engineering**, Sookmyung.W.Univ / 2017.03 - 2021.08
