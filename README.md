@@ -4,14 +4,13 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Docker-F05138?style=for-the-badge&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-00599C?style=for-the-badge&logo=Kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-F05032?style=for-the-badge&logo=Aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-092E20?style=for-the-badge&logo=FastAPI&logoColor=white"/> 
 </p>
 
 <br/>
